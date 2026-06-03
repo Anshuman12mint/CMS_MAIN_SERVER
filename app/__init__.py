@@ -1,0 +1,2 @@
+"""College server application package."""
+

@@ -1,0 +1,2 @@
+"""Course management module."""
+
